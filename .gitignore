@@ -1,0 +1,47 @@
+# Spring Boot / Maven
+target/
+**/target/
+*.class
+*.jar
+*.war
+
+# React / Vite
+node_modules/
+**/node_modules/
+dist/
+**/dist/
+dist-ssr/
+
+# IDE
+.idea/
+**/.idea/
+.vscode/
+**/.vscode/
+*.iml
+*.iws
+*.ipr
+
+# macOS
+.DS_Store
+._*
+__MACOSX/
+
+# Logs
+*.log
+logs/
+
+# Environment variables and secrets
+.env
+.env.*
+*.local
+application-local.properties
+application-secret.properties
+
+# Duplicate project archives
+Front.zip
+Strategy.zip
+Londery_management.zip
+
+# Temporary files
+*.tmp
+*.temp
